@@ -196,7 +196,7 @@ a {
   content: "";
   width: 394px;
   height: 250px;
-  background-image: url("/images/place_title_bg.png");
+  background-image: url("../images/place_title_bg.png");
   background-size: cover;
 }
 
@@ -329,7 +329,7 @@ a {
 }
 
 .levels__item {
-  background-image: url("/images/cooper.png");
+  background-image: url("../images/cooper.png");
   background-repeat: repeat;
   background-position: -1000px -1000px;
   padding: 20px;
@@ -363,7 +363,7 @@ a {
 .wide::after {
   content: "";
   position: absolute;
-  background-image: url("/images/plane.png");
+  background-image: url("../images/plane.png");
   background-repeat: no-repeat;
   width: 376px;
   height: 210px;
@@ -412,13 +412,13 @@ a {
 }
 
 .sliderBtn_prev {
-  background-image: url("/images/prev.svg");
+  background-image: url("../images/prev.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .sliderBtn_next {
-  background-image: url("/images/next.svg");
+  background-image: url("../images/next.svg");
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -501,7 +501,7 @@ a {
     padding: 0 20px;
   }
   .header {
-    background-image: url("/images/mobile_bg.png");
+    background-image: url("../images/mobile_bg.png");
     background-position: 0 0;
     padding: 20px 0 285px 0;
   }
@@ -530,7 +530,7 @@ a {
   .levels__item:nth-child(1)::after {
     content: "";
     position: absolute;
-    background-image: url(/images/plane.png);
+    background-image: url("../images/plane.png");
     background-repeat: no-repeat;
     width: 376px;
     height: 210px;
@@ -691,13 +691,13 @@ a {
   }
 
   .sliderBtnsMobile_prev {
-    background-image: url("/images/prev.svg");
+    background-image: url("../images/prev.svg");
     background-repeat: no-repeat;
     background-position: center center;
   }
   
   .sliderBtnsMobile_next {
-    background-image: url("/images/next.svg");
+    background-image: url("../images/next.svg");
     background-repeat: no-repeat;
     background-position: center center;
   }
